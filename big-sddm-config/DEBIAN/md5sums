@@ -1,4 +1,4 @@
 d41d8cd98f00b204e9800998ecf8427e  DEBIAN/md5sums
-153f807ff9b6b0dd4d84b93c5d00804d  DEBIAN/control
+2a8d927963b35308520e3f93f9cf91f1  DEBIAN/control
 9969a920163c29ee1eddaed8c492ec25  etc/sddm.conf.d/dpi.conf
 f2c647f8e8e27fce953df33cebc6a572  usr/share/sddm/themes/breeze/theme.conf.user
