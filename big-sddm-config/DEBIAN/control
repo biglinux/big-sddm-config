@@ -1,10 +1,10 @@
 Package: big-sddm-config
-Version: 1.0.1-1big1
+Version: 1.0.1-1big3
 Depends: sddm
 Architecture: all
 Maintainer: Bruno Goncalves <www.biglinux.com.br>
 Section: admin
 Priority: optional
-Installed-Size:16
+Installed-Size:20
 Description: Configure sddm to BigLinux
 
